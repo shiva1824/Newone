@@ -1,0 +1,7 @@
+#!/bin/bash
+Commands
+ls -l
+ls -lrt
+ls -lr
+cd 
+cd ..
