@@ -3,4 +3,4 @@
 $var1 =shiva
 $var2 =gopi
 
-echo $var1 $var2
+echo var1 var2
