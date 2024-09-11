@@ -1,0 +1,5 @@
+Linux
+expense project
+shell scripting
+ansible
+terraform
